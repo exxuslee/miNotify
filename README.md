@@ -12,3 +12,6 @@
 
 ## Features
 1. Создание осциллограммы тока
+
+### Приложение устарело, сейчас используеся telegram bot
+[telegramMesBot](https://github.com/Exxuslee/telegramMesBot)
