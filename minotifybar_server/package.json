@@ -1,0 +1,20 @@
+{
+  "name": "minotifybar_server",
+  "version": "1.0.0",
+  "description": "Server bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "haos",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "chart.js": "^2.9.3",
+    "firebase-admin": "^8.13.0",
+    "node-gyp": "^7.0.0",
+    "node-windows": "^1.0.0-beta.1",
+    "sqlite3": "^5.0.0"
+  }
+}

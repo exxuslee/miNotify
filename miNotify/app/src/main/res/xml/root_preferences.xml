@@ -1,0 +1,58 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <SwitchPreferenceCompat
+            android:id="@+id/kc0b"
+            app:key="kc0b"
+            app:title="@string/big_title" />
+
+        <SwitchPreferenceCompat
+            android:id="@+id/kc1b"
+            app:dependency="kc0b"
+            app:key="kc1b"
+            app:title="@string/kc1" />
+        <SwitchPreferenceCompat
+            android:id="@+id/kc2b"
+            app:dependency="kc0b"
+            app:key="kc2b"
+            app:title="@string/kc2" />
+        <SwitchPreferenceCompat
+            android:id="@+id/kc3b"
+            app:dependency="kc0b"
+            app:key="kc3b"
+            app:title="@string/kc3" />
+        <SwitchPreferenceCompat
+            android:id="@+id/kc4b"
+            app:dependency="kc0b"
+            app:key="kc4b"
+            app:title="@string/kc4" />
+
+
+        <SwitchPreferenceCompat
+            android:id="@+id/kc0m"
+            app:key="kc0m"
+            app:title="@string/max_title" />
+
+        <SwitchPreferenceCompat
+            android:id="@+id/kc1m"
+            app:dependency="kc0m"
+            app:key="kc1m"
+            app:title="@string/kc1" />
+        <SwitchPreferenceCompat
+            android:id="@+id/kc2m"
+            app:dependency="kc0m"
+            app:key="kc2m"
+            app:title="@string/kc2" />
+        <SwitchPreferenceCompat
+            android:id="@+id/kc3m"
+            app:dependency="kc0m"
+            app:key="kc3m"
+            app:title="@string/kc3" />
+        <SwitchPreferenceCompat
+            android:id="@+id/kc4m"
+            app:dependency="kc0m"
+            app:key="kc4m"
+            app:title="@string/kc4" />
+
+
+</PreferenceScreen>

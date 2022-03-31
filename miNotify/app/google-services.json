@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455672125552",
+    "firebase_url": "https://micokepushbar.firebaseio.com",
+    "project_id": "micokepushbar",
+    "storage_bucket": "micokepushbar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455672125552:android:2744ffd44d827b4dcf3cb5",
+        "android_client_info": {
+          "package_name": "com.exxus.minotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455672125552-2h26g0flp8pras1ml173ve4igqtkvpv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhZZZCsrjwhobGvGTZnj5O3jpcXF5p8FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455672125552-2h26g0flp8pras1ml173ve4igqtkvpv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

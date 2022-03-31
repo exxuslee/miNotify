@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">miNotify</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="big_header">Повышенный ампераж</string>
+    <string name="max_header">Максимальный ампераж</string>
+
+    <!-- Sync Preferences -->
+    <string name="big_title">Уведомления повышенного тока</string>
+    <string name="max_title">Уведомления максимального тока</string>
+    <string name="kc1">КЦ-1</string>
+    <string name="kc2">КЦ-2</string>
+    <string name="kc3">КЦ-3</string>
+    <string name="kc4">КЦ-4</string>
+
+    <string name="default_notification_channel_id">markerr</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="msg_subscribe_failed">Fail</string>
+
+    <string name="androidID">Fail</string>
+
+</resources>
